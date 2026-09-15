@@ -19,7 +19,7 @@
       <a class="back-link" href="/hisohiso/">← 홈</a>
       <p class="mono-label">가나 쓰기 · 114개 영상</p>
       <h1>보고 따라 쓰면,<br>손이 먼저 기억해요.</h1>
-      <p>글자를 고르면 앱에서 사용하는 획순 영상이 재생됩니다. 히라가나 109개와 현재 준비된 가타카나 5개를 모두 볼 수 있어요.</p>
+      <p>오십음도 순서로 글자를 고르면 앱에서 사용하는 획순 영상이 재생됩니다. 히라가나와 가타카나는 토글로 바꿀 수 있어요.</p>
     </header>
 
     <section class="kana-practice" aria-label="가나 쓰기 연습">
@@ -36,16 +36,12 @@
       </div>
 
       <div class="kana-picker">
-        <div class="kana-filters" role="toolbar" aria-label="가나 분류">
-          <button type="button" data-filter="all" aria-pressed="true">전체</button>
-          <button type="button" data-filter="basic">기본</button>
-          <button type="button" data-filter="voiced">탁음·반탁음</button>
-          <button type="button" data-filter="contracted">요음</button>
-          <button type="button" data-filter="small">작은 글자</button>
-          <button type="button" data-filter="katakana">가타카나 5</button>
+        <div class="script-toggle" role="toolbar" aria-label="문자 종류">
+          <button type="button" data-script="hiragana" aria-pressed="true">히라가나</button>
+          <button type="button" data-script="katakana" aria-pressed="false">가타카나</button>
         </div>
-        <p id="kana-count" class="kana-count" aria-live="polite">전체 114개</p>
-        <div id="kana-grid" class="kana-grid" aria-label="가나 선택"></div>
+        <p id="kana-count" class="kana-count" aria-live="polite">히라가나 109개 영상</p>
+        <div id="kana-sections" class="kana-sections" aria-label="가나 선택"></div>
       </div>
     </section>
   </main>
