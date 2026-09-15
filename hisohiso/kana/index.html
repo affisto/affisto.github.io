@@ -1,1 +1,54 @@
-<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>가나 공부 · HISOHISO</title><link rel="stylesheet" href="/hisohiso/styles.css"></head><body><header class="site-header"><a class="wordmark" href="/hisohiso/"><img src="/hisohiso/hisohiso-mark.png" alt=""><span>HISOHISO</span></a><nav><a href="/hisohiso/kana/">가나 공부</a><a href="/hisohiso/expressions/">표현 노트</a><a class="nav-cta" href="mailto:tech@affisto.com?subject=HISOHISO%20사전%20신청">사전 신청</a></nav></header><main class="subpage"><section class="subhero section-shell"><a class="back-link" href="/hisohiso/">← 홈</a><h1>가나는 표가 아니라<br>소리의 리듬이에요.</h1><p>앱에서는 듣기, 따라쓰기, 단어 연결, 복습이 한 흐름으로 이어집니다.</p></section><section class="kana-table section-shell"><article><header><span>모음</span><button disabled>한 줄 듣기</button></header><div><div><strong>あ</strong><small>a</small></div><div><strong>い</strong><small>i</small></div><div><strong>う</strong><small>u</small></div><div><strong>え</strong><small>e</small></div><div><strong>お</strong><small>o</small></div></div></article><article><header><span>K</span><button disabled>한 줄 듣기</button></header><div><div><strong>か</strong><small>ka</small></div><div><strong>き</strong><small>ki</small></div><div><strong>く</strong><small>ku</small></div><div><strong>け</strong><small>ke</small></div><div><strong>こ</strong><small>ko</small></div></div></article></section><section class="sub-cta section-shell"><h2>나머지 글자는 앱에서 만나요.</h2><a class="btn" href="mailto:tech@affisto.com?subject=HISOHISO%20사전%20신청">출시 소식 받기</a></section></main><footer class="site-footer"><p class="footer-statement">일본어를 작게, 매일.</p></footer></body></html>
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>모든 가나 쓰기 · HISOHISO</title>
+  <meta name="description" content="히라가나와 가타카나의 획순 영상을 골라 보며 연습하세요.">
+  <link rel="stylesheet" href="/hisohiso/styles.css">
+  <link rel="stylesheet" href="/hisohiso/kana/kana.css">
+  <script src="/hisohiso/kana/kana.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="wordmark" href="/hisohiso/"><img src="/hisohiso/hisohiso-mark.png" alt=""><span>HISOHISO</span></a>
+    <nav aria-label="주요 메뉴"><a href="/hisohiso/kana/" aria-current="page">가나 공부</a><a href="/hisohiso/expressions/">표현 노트</a><a class="nav-cta" href="mailto:tech@affisto.com?subject=HISOHISO%20사전%20신청">사전 신청</a></nav>
+  </header>
+  <main class="kana-library section-shell">
+    <header class="kana-library__head">
+      <a class="back-link" href="/hisohiso/">← 홈</a>
+      <p class="mono-label">가나 쓰기 · 114개 영상</p>
+      <h1>보고 따라 쓰면,<br>손이 먼저 기억해요.</h1>
+      <p>글자를 고르면 앱에서 사용하는 획순 영상이 재생됩니다. 히라가나 109개와 현재 준비된 가타카나 5개를 모두 볼 수 있어요.</p>
+    </header>
+
+    <section class="kana-practice" aria-label="가나 쓰기 연습">
+      <div class="kana-player-wrap">
+        <div class="kana-player-meta"><div><span id="script-label">히라가나</span><strong id="selected-glyph">あ</strong></div><p><b id="stroke-count">3</b>획 · <span id="duration">6.3초</span></p></div>
+        <video id="kana-video" controls playsinline preload="metadata" aria-label="あ 쓰기 영상">
+          <source src="/hisohiso/kana/videos/h-3042.mp4" type="video/mp4">
+        </video>
+        <div class="kana-player-actions">
+          <button id="prev-kana" type="button">← 이전</button>
+          <button id="replay-kana" type="button">처음부터</button>
+          <button id="next-kana" type="button">다음 →</button>
+        </div>
+      </div>
+
+      <div class="kana-picker">
+        <div class="kana-filters" role="toolbar" aria-label="가나 분류">
+          <button type="button" data-filter="all" aria-pressed="true">전체</button>
+          <button type="button" data-filter="basic">기본</button>
+          <button type="button" data-filter="voiced">탁음·반탁음</button>
+          <button type="button" data-filter="contracted">요음</button>
+          <button type="button" data-filter="small">작은 글자</button>
+          <button type="button" data-filter="katakana">가타카나 5</button>
+        </div>
+        <p id="kana-count" class="kana-count" aria-live="polite">전체 114개</p>
+        <div id="kana-grid" class="kana-grid" aria-label="가나 선택"></div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer"><p class="footer-statement">한 획씩, 천천히.</p><div class="footer-meta"><strong>HISOHISO</strong><div><a href="/hisohiso/legal/terms/">이용약관</a><a href="/hisohiso/legal/privacy/">개인정보처리방침</a><a href="mailto:tech@affisto.com">tech@affisto.com</a></div><small>© 2026 Affisto.</small></div></footer>
+</body>
+</html>

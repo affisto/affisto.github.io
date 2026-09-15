@@ -1,0 +1,1142 @@
+{
+  "あ": {
+    "lessonId": "kana:character:h:3042",
+    "svg": "assets/kana/svg/h-3042.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3042.svg",
+    "sourceRevision": "3067bf9bd5ef9eb7f59240a8172086ac1fbcfad7bd0c009e9c24a97116ba1268",
+    "sha256": "1f282ef31009043d451619a253015a8fa1fce56b52e59daf531bcc8916d528ce",
+    "duration": 6.25,
+    "strokeCount": 3
+  },
+  "い": {
+    "lessonId": "kana:character:h:3044",
+    "svg": "assets/kana/svg/h-3044.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3044.svg",
+    "sourceRevision": "365e42b14abfead7cda703d90368b5632e869a0cd2468a89d40e991cea37af5c",
+    "sha256": "6c21d5d8e56c80e3a5c4588e3ba72d4edb8ca53440c75f7366934e0302935703",
+    "duration": 3.5166666666666666,
+    "strokeCount": 2
+  },
+  "う": {
+    "lessonId": "kana:character:h:3046",
+    "svg": "assets/kana/svg/h-3046.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3046.svg",
+    "sourceRevision": "94013c38ea5da89b7371517ef939ebaa907cf4bc8490cb9bdd7694ac87a8982b",
+    "sha256": "ac16e6773b4b2b7d2873cde7854c76582ef749273162bad3fe2f4372b3fac8ef",
+    "duration": 3.5166666666666666,
+    "strokeCount": 2
+  },
+  "え": {
+    "lessonId": "kana:character:h:3048",
+    "svg": "assets/kana/svg/h-3048.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3048.svg",
+    "sourceRevision": "9cd76ceba23d80b729a470b72e04f66c6970dfe43725b65bcbe71aa1c33ed57b",
+    "sha256": "83f6a8eae7a58c748c449fd45a1a792816f5a5dc4b55a7699ffed02598ff1025",
+    "duration": 4.95,
+    "strokeCount": 2
+  },
+  "お": {
+    "lessonId": "kana:character:h:304a",
+    "svg": "assets/kana/svg/h-304a.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304a.svg",
+    "sourceRevision": "0585fe3ebd6f3d5815dc9b0448bbdbb80eaff67c1c6811e7a2619682d3c6552d",
+    "sha256": "0d35f85ecc8f08fe4c4ad382a88d346485c8466c3666f02eaef338f7f38aa6ea",
+    "duration": 5.466666666666667,
+    "strokeCount": 3
+  },
+  "か": {
+    "lessonId": "kana:character:h:304b",
+    "svg": "assets/kana/svg/h-304b.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304b.svg",
+    "sourceRevision": "0d031681b99277732d70f7caa6a692a7795a77d0dea66c9d73b0c901b71d7180",
+    "sha256": "c7cec320ccf0ed854e1cfbffd343e0c05230391c8670749cad8af32f3df2677a",
+    "duration": 4.583333333333333,
+    "strokeCount": 3
+  },
+  "き": {
+    "lessonId": "kana:character:h:304d",
+    "svg": "assets/kana/svg/h-304d.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304d.svg",
+    "sourceRevision": "156bd4ec54676beedc64fd094c1424f1d15ae0efaed718f959a1fcf351d5f05e",
+    "sha256": "89d3ad71abfcab7b8210cb0ef87b65a2d6ee597dd666b18712c6ec7945e20119",
+    "duration": 5.516666666666667,
+    "strokeCount": 4
+  },
+  "く": {
+    "lessonId": "kana:character:h:304f",
+    "svg": "assets/kana/svg/h-304f.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304f.svg",
+    "sourceRevision": "a9a37a1f1417aafec878d5bfcc0451eda6d5e5df448a8a907baff05930f4395c",
+    "sha256": "7dd975a8fba29f3015bae0f4c6c7eff80ff786ef50013bc753926a0cede52a29",
+    "duration": 2.7666666666666666,
+    "strokeCount": 1
+  },
+  "け": {
+    "lessonId": "kana:character:h:3051",
+    "svg": "assets/kana/svg/h-3051.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3051.svg",
+    "sourceRevision": "4d59145f88cf64154ac5143ed2e0832ea5c65fe77b671698f6f6085cc875421c",
+    "sha256": "1713b531ca2f54bcf31bd83a860f9dd8c459b2267e0258161cb7f896683b0084",
+    "duration": 4.583333333333333,
+    "strokeCount": 3
+  },
+  "こ": {
+    "lessonId": "kana:character:h:3053",
+    "svg": "assets/kana/svg/h-3053.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3053.svg",
+    "sourceRevision": "deef57bbfdfde08b5ede3ec96817772d0cd5cd8f707eb5b555f44204d8483d6c",
+    "sha256": "675a29bfa71c0b2a2a1a6c8055ee631e853c32698e7724c30177d8882ef67cbd",
+    "duration": 3.4166666666666665,
+    "strokeCount": 2
+  },
+  "さ": {
+    "lessonId": "kana:character:h:3055",
+    "svg": "assets/kana/svg/h-3055.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3055.svg",
+    "sourceRevision": "cabfbc23d620aff6860f4774c88c94cf88edab0c5fd3ac2e87cc14bfc21d75eb",
+    "sha256": "1e3d2e6447715724725384613099ca71c6821ba64ecb2a3cd7eb3245d2a45063",
+    "duration": 4.5,
+    "strokeCount": 3
+  },
+  "し": {
+    "lessonId": "kana:character:h:3057",
+    "svg": "assets/kana/svg/h-3057.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3057.svg",
+    "sourceRevision": "6bf2538eef9c8f7de05b14c6cff55c947ffbe8aaeeed18d5002e4abcae9792e0",
+    "sha256": "1d1e3264cabdb7295d6289be375cbc3dc2c44cc8d3e94eb3e0d0c88025c19a87",
+    "duration": 2.933333333333333,
+    "strokeCount": 1
+  },
+  "す": {
+    "lessonId": "kana:character:h:3059",
+    "svg": "assets/kana/svg/h-3059.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3059.svg",
+    "sourceRevision": "9dd8d0e09976d6c054d7771c9d9da19fd359dccc43ee89f9c6281a577a8f01ff",
+    "sha256": "c0af86ffa231d58512242f7fb58e4879e200ba22cc509de59a735afd42529fa1",
+    "duration": 4.7,
+    "strokeCount": 2
+  },
+  "せ": {
+    "lessonId": "kana:character:h:305b",
+    "svg": "assets/kana/svg/h-305b.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-305b.svg",
+    "sourceRevision": "67bfa1d7272df00ee13cd410b58b9f64e4c1f6cae16d21a78643057600bc6947",
+    "sha256": "b9512e033c12ba2cd86e82a28b33b48d7e07639a5a0847a8390639aaa2c4c78b",
+    "duration": 4.933333333333334,
+    "strokeCount": 3
+  },
+  "そ": {
+    "lessonId": "kana:character:h:305d",
+    "svg": "assets/kana/svg/h-305d.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-305d.svg",
+    "sourceRevision": "518ac33d1819f4084d776be2cca8c31e9158af7ab76909082ad67d74c27c4bf1",
+    "sha256": "394a2ceef8e8f47f7170bc2ba18a8a8aea4534d3c74558a44d905ffed8d5dc1d",
+    "duration": 5,
+    "strokeCount": 1
+  },
+  "た": {
+    "lessonId": "kana:character:h:305f",
+    "svg": "assets/kana/svg/h-305f.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-305f.svg",
+    "sourceRevision": "150c7d55561e08165a384d8669e260b4fcdb70976aece003e00f5433eaed2c88",
+    "sha256": "e392cc7901d11031b07955a7dbae82b59757278ff953dac3791cbf347c500d3d",
+    "duration": 4.75,
+    "strokeCount": 4
+  },
+  "ち": {
+    "lessonId": "kana:character:h:3061",
+    "svg": "assets/kana/svg/h-3061.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3061.svg",
+    "sourceRevision": "6b6b974925b57d546fcbe806ffc64972a11d8373e0707ddd2bcd1bbcf368f127",
+    "sha256": "a87019e4473b59abd97f57a44e2bcb8581743d6a4015c8c440a745d287b1b79e",
+    "duration": 4.683333333333334,
+    "strokeCount": 2
+  },
+  "つ": {
+    "lessonId": "kana:character:h:3064",
+    "svg": "assets/kana/svg/h-3064.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3064.svg",
+    "sourceRevision": "96a5100d46f61866dbd6dd9499bbcdf8cde5dccdd1e02932e10ab6bfd01aa6ef",
+    "sha256": "24da0a9397821a59ee86b2614ecd5733cdca085e7f9da6f5180fd3b97f6fc966",
+    "duration": 3.2333333333333334,
+    "strokeCount": 1
+  },
+  "て": {
+    "lessonId": "kana:character:h:3066",
+    "svg": "assets/kana/svg/h-3066.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3066.svg",
+    "sourceRevision": "38d5b580a4c4b3ae49f1915e44590323b372947c33a4057656a4b8a8efc4eb69",
+    "sha256": "5f073d293b40ce88220566b4818f89734e83be056cebabf6013376a9a165864f",
+    "duration": 3.5166666666666666,
+    "strokeCount": 1
+  },
+  "と": {
+    "lessonId": "kana:character:h:3068",
+    "svg": "assets/kana/svg/h-3068.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3068.svg",
+    "sourceRevision": "d22cd5135265fecb8c9eb1f8854d81f5bccd601f66441a9ac26c20d2439aca09",
+    "sha256": "240d75f09abf8b8ae03f9043518d616e2677b250efa801560627bf6ab7d99818",
+    "duration": 3.8,
+    "strokeCount": 2
+  },
+  "な": {
+    "lessonId": "kana:character:h:306a",
+    "svg": "assets/kana/svg/h-306a.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-306a.svg",
+    "sourceRevision": "4beff0bd6e0a1fab99c3b72ff3cd55bc5d3c9c7a65473ae1a6b9d3908545f5d8",
+    "sha256": "295b4bc150eed46be9025d53c16aa5aed695922c0cbc0fc12d9b20d05367d393",
+    "duration": 5.283333333333333,
+    "strokeCount": 4
+  },
+  "に": {
+    "lessonId": "kana:character:h:306b",
+    "svg": "assets/kana/svg/h-306b.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-306b.svg",
+    "sourceRevision": "df6d89fa609bfa90f46364f0fe573bceda0e8d4ceaaa558e148d514c5b3c9947",
+    "sha256": "777f7c55ca0fcf9b5dc7f5479fc7fb85a1ccd4baf9fcd55ef9c3870ab34723f7",
+    "duration": 4.283333333333333,
+    "strokeCount": 3
+  },
+  "ぬ": {
+    "lessonId": "kana:character:h:306c",
+    "svg": "assets/kana/svg/h-306c.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-306c.svg",
+    "sourceRevision": "ec6e3fb8f8982023e63207ba925b54a9da8434e1128e5e17f5f50e38acb08585",
+    "sha256": "9d0bd4dfb1e765e1459201a94681bc1b84728c969038c6343494bc163d002fa0",
+    "duration": 5.933333333333334,
+    "strokeCount": 2
+  },
+  "ね": {
+    "lessonId": "kana:character:h:306d",
+    "svg": "assets/kana/svg/h-306d.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-306d.svg",
+    "sourceRevision": "247faee2bcb0d19250d2c8b53aeea6ad131be94bc868003919223c5af321c188",
+    "sha256": "e2962c7322c085afa69e82b67663e167d6077f38f0dfec172fe1f246e869c9b4",
+    "duration": 5.5,
+    "strokeCount": 2
+  },
+  "の": {
+    "lessonId": "kana:character:h:306e",
+    "svg": "assets/kana/svg/h-306e.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-306e.svg",
+    "sourceRevision": "a33cfd4740af2054bd3a00854dd516b2704a419c58e357632f0e9675ce925472",
+    "sha256": "74d4ee9e950b99bcc77513900a17257b39b03d2a92aae66988002a517d97ae26",
+    "duration": 4.683333333333334,
+    "strokeCount": 1
+  },
+  "は": {
+    "lessonId": "kana:character:h:306f",
+    "svg": "assets/kana/svg/h-306f.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-306f.svg",
+    "sourceRevision": "1c6b2a7b8083095d5d4d1f74078a147aff206ca5cd120a4e540e5df415296d3e",
+    "sha256": "0dd55527051809c4fd5ca462b428679889f619a0c8367b07755d1381427f3ecc",
+    "duration": 5.7,
+    "strokeCount": 3
+  },
+  "ひ": {
+    "lessonId": "kana:character:h:3072",
+    "svg": "assets/kana/svg/h-3072.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3072.svg",
+    "sourceRevision": "ef46b4c4633d44f01e4abe3bd2b053d99c8482964fea8fd40cd950698144985e",
+    "sha256": "2df6300f136f073d2d763024ba2cd27d27704c20d03d18127cf74d7bfa90ebcd",
+    "duration": 4.616666666666666,
+    "strokeCount": 1
+  },
+  "ふ": {
+    "lessonId": "kana:character:h:3075",
+    "svg": "assets/kana/svg/h-3075.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3075.svg",
+    "sourceRevision": "4e70513f350e802955ac3af932295d806b37bf9bda71c29edfc01817fcf5de27",
+    "sha256": "68e9f987aabfd9f3473f6d9066f7eda40ab274f368358c1146e99e87f87833ca",
+    "duration": 4.1,
+    "strokeCount": 4
+  },
+  "へ": {
+    "lessonId": "kana:character:h:3078",
+    "svg": "assets/kana/svg/h-3078.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3078.svg",
+    "sourceRevision": "1ff76e0ac6388e291aef0f6d845e973b14eff108cdad2e616dae0a0c55484bb4",
+    "sha256": "c883544a799b2d246eb920596ed9d1d48f4177a75bae1343a6e967625ef03d95",
+    "duration": 2.75,
+    "strokeCount": 1
+  },
+  "ほ": {
+    "lessonId": "kana:character:h:307b",
+    "svg": "assets/kana/svg/h-307b.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-307b.svg",
+    "sourceRevision": "4fe89e53406a1ef840f0591d644d005ab81a77d1b43ffaaa660ebd0e13a894a5",
+    "sha256": "6a8c3b868b313e2485cbdeb9c47467cf0c75a8d8b9b275e07430ca64393ffc47",
+    "duration": 6.4,
+    "strokeCount": 4
+  },
+  "ま": {
+    "lessonId": "kana:character:h:307e",
+    "svg": "assets/kana/svg/h-307e.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-307e.svg",
+    "sourceRevision": "10cfbebe002424c19f6d84ce2bd13ce9d5b50a91ae851359e5f6a0205ec4731a",
+    "sha256": "70786f72621d98a4cd4b6a52d7861ec1aac7414fdab1346b20284065aee51487",
+    "duration": 5.65,
+    "strokeCount": 3
+  },
+  "み": {
+    "lessonId": "kana:character:h:307f",
+    "svg": "assets/kana/svg/h-307f.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-307f.svg",
+    "sourceRevision": "dafe4e1a229e272ffa9dc4d1f709f12ed93d7e336e8e9adf2487052eb9ce2271",
+    "sha256": "b4781930419d713b4f2eee4788b40bd9e6b0a0b4330904a59f199fa18fa4fd35",
+    "duration": 4.916666666666667,
+    "strokeCount": 2
+  },
+  "む": {
+    "lessonId": "kana:character:h:3080",
+    "svg": "assets/kana/svg/h-3080.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3080.svg",
+    "sourceRevision": "1497aa8fd7d1c349702e414f8fcb3ef82b5716d76c2305dec78f54a6c04d99d1",
+    "sha256": "a878d5805e6372025d14575629272f455f526b5b3eb1177022207e81f3b4661d",
+    "duration": 5.683333333333334,
+    "strokeCount": 3
+  },
+  "め": {
+    "lessonId": "kana:character:h:3081",
+    "svg": "assets/kana/svg/h-3081.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3081.svg",
+    "sourceRevision": "bb4b1f3fff7f5d5a8a52b15a2adc137204b1c2ba940e91c4d4750c0f4850a7db",
+    "sha256": "33a089b0ee0d8521a313d3a4809865f74905eaa8fb03a87def378089626e0cbd",
+    "duration": 5.6,
+    "strokeCount": 2
+  },
+  "も": {
+    "lessonId": "kana:character:h:3082",
+    "svg": "assets/kana/svg/h-3082.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3082.svg",
+    "sourceRevision": "ce40cacb527fb23b58660b2c47904db6118ff1fcc52da09e30c738c2c16acc56",
+    "sha256": "a7a370af47fe5a76afa142bb92f391b54b0e7961252f4c793dc539124a6653cb",
+    "duration": 4.816666666666666,
+    "strokeCount": 3
+  },
+  "や": {
+    "lessonId": "kana:character:h:3084",
+    "svg": "assets/kana/svg/h-3084.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3084.svg",
+    "sourceRevision": "856f5457c2669a8cb9f755a576f100fabe19adb9006c1f972015cb81310fe8b7",
+    "sha256": "f07a6325ee6d0352ecacfaabfd3751ffd5b099ede760fb13d3e07e3465850b49",
+    "duration": 4.55,
+    "strokeCount": 3
+  },
+  "ゆ": {
+    "lessonId": "kana:character:h:3086",
+    "svg": "assets/kana/svg/h-3086.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3086.svg",
+    "sourceRevision": "45dbb07cf6141780dd004a558af83a6312c75a96b131dddf7b91413ef69f43ba",
+    "sha256": "0f12ace4bf5f78f09fa4490c1ac504bb48d6860cb6b1a4c748a83d2ff415fe70",
+    "duration": 5.266666666666667,
+    "strokeCount": 2
+  },
+  "よ": {
+    "lessonId": "kana:character:h:3088",
+    "svg": "assets/kana/svg/h-3088.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3088.svg",
+    "sourceRevision": "e6e3969569cdd6824785d683dd6a9561d72ea3fac6073ff591991c6daf8ce96a",
+    "sha256": "1b0a7d415658f001b9249306925ed96395bea0ee413ff526b0a159b69386779e",
+    "duration": 4.266666666666667,
+    "strokeCount": 2
+  },
+  "ら": {
+    "lessonId": "kana:character:h:3089",
+    "svg": "assets/kana/svg/h-3089.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3089.svg",
+    "sourceRevision": "c25b9a4b2240a1a1efe88b735dc1430fbd82465a04bcfc9d7fc0769e61da1f7b",
+    "sha256": "3579ea14ffd0f2bd52d160f1f1e22559f6e68dfe87ec81121a7ae61080275640",
+    "duration": 4.05,
+    "strokeCount": 2
+  },
+  "り": {
+    "lessonId": "kana:character:h:308a",
+    "svg": "assets/kana/svg/h-308a.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-308a.svg",
+    "sourceRevision": "df3c3fceae6b242e7aa5f8533514f2ca66ba8298910dbda280d72ee7bf7851e2",
+    "sha256": "9130a5807eceebcf09160cb1626874d53d7bb311afd7f781f00a1b3d085a3de3",
+    "duration": 4.033333333333333,
+    "strokeCount": 2
+  },
+  "る": {
+    "lessonId": "kana:character:h:308b",
+    "svg": "assets/kana/svg/h-308b.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-308b.svg",
+    "sourceRevision": "4ec9db56bcd134a9c4a384bb9e0433d4b5b4fe7a04eb2f15b1b464598e3c5480",
+    "sha256": "92e5b7e85b00f3ff220cec297603bd67dacee1a8d85a6f5e8a4fcfb4c2f89865",
+    "duration": 5.6,
+    "strokeCount": 1
+  },
+  "れ": {
+    "lessonId": "kana:character:h:308c",
+    "svg": "assets/kana/svg/h-308c.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-308c.svg",
+    "sourceRevision": "eddb19b6c65bb9c83326a58b5add2333bffddfc07dbcb6f0126b103cbeb6819c",
+    "sha256": "18ef3786b7c8b418baf55c71d678b92a4244c300ad10b0ebc39d7a42d0a03c95",
+    "duration": 4.716666666666667,
+    "strokeCount": 2
+  },
+  "ろ": {
+    "lessonId": "kana:character:h:308d",
+    "svg": "assets/kana/svg/h-308d.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-308d.svg",
+    "sourceRevision": "e57ec70a8b533e8a83037ce4b87125917a3d08d23d06e4da28495e139fb2300e",
+    "sha256": "fb9c7c60d359b9cac0426f88b0dfb53f532e47db17b92ff16695151a56b976bc",
+    "duration": 4.733333333333333,
+    "strokeCount": 1
+  },
+  "わ": {
+    "lessonId": "kana:character:h:308f",
+    "svg": "assets/kana/svg/h-308f.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-308f.svg",
+    "sourceRevision": "c964f4a7bb613184e7a75ad886bab38bf8bdc1c3f8fe30b6cbad966a2e3c53c6",
+    "sha256": "40f0304e9c3a52d5195bbd2619db17ab354f7135175c34ea98db0290d027a41c",
+    "duration": 5.533333333333333,
+    "strokeCount": 2
+  },
+  "を": {
+    "lessonId": "kana:character:h:3092",
+    "svg": "assets/kana/svg/h-3092.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3092.svg",
+    "sourceRevision": "2e20c906191f6016c791c7b3a93ee4e772107903b5add0fbcf9cb486cbd9cff7",
+    "sha256": "ffc053426ae72123302a94d3cbc08f53afe9d9860e08e3afb86ecf208f02bdaa",
+    "duration": 5.916666666666667,
+    "strokeCount": 3
+  },
+  "ん": {
+    "lessonId": "kana:character:h:3093",
+    "svg": "assets/kana/svg/h-3093.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3093.svg",
+    "sourceRevision": "81b5c6625a5bb2a08f106e1530ba16b3519645cc4f6f25d158df38d0ed241397",
+    "sha256": "ab1854a5593e6b8cca927961d5f9db5073bdd956d6a08e55d7078dbb5eda7c88",
+    "duration": 4.066666666666666,
+    "strokeCount": 1
+  },
+  "ぁ": {
+    "lessonId": "kana:character:h:3041",
+    "svg": "assets/kana/svg/h-3041.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3041.svg",
+    "sourceRevision": "2edce85b78a081b03aaa62bb0d7adcb07f7f3017311657540de036d7d8f191d6",
+    "sha256": "0b5ed70ba908670ae9b96cb34b823e351be7c2bcc3f0eea42e52a1de9571ba84",
+    "duration": 5.383333333333334,
+    "strokeCount": 3
+  },
+  "ぃ": {
+    "lessonId": "kana:character:h:3043",
+    "svg": "assets/kana/svg/h-3043.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3043.svg",
+    "sourceRevision": "cd2cf05b04cf085cc473f6f8101320135d6e48159861dbdd6e48cc2f168df3ca",
+    "sha256": "e25571e7625ef3028a0243866e290e9abdc88f276eb1ea9d32bfbaf7e499cf82",
+    "duration": 3.1333333333333333,
+    "strokeCount": 2
+  },
+  "ぅ": {
+    "lessonId": "kana:character:h:3045",
+    "svg": "assets/kana/svg/h-3045.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3045.svg",
+    "sourceRevision": "99b46b2578eaa86823867f497352600302daaa55bcadd77590d4b07965d66dc8",
+    "sha256": "4271948e55fdbb547041c5e68886ca2a45d912e1c1ea0866784fcb3a6753945a",
+    "duration": 3.1166666666666667,
+    "strokeCount": 2
+  },
+  "ぇ": {
+    "lessonId": "kana:character:h:3047",
+    "svg": "assets/kana/svg/h-3047.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3047.svg",
+    "sourceRevision": "887cd04f5e6b79e125f5a37cf448433137ca20e77129bef692c9d84e485c34a0",
+    "sha256": "b76a392396159c8ef709a46d60cd0f8dfe34f709f8124a6113fde359e359fec7",
+    "duration": 4.316666666666666,
+    "strokeCount": 2
+  },
+  "ぉ": {
+    "lessonId": "kana:character:h:3049",
+    "svg": "assets/kana/svg/h-3049.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3049.svg",
+    "sourceRevision": "cd7f41421961f66cb60213a67efcd00414657c36c986e932068e30d45338394b",
+    "sha256": "7fc6ae784c31f3f1eb4f08eeed42138f7b04f305abe70e06ba089bec0648ad3a",
+    "duration": 4.7,
+    "strokeCount": 3
+  },
+  "が": {
+    "lessonId": "kana:character:h:304c",
+    "svg": "assets/kana/svg/h-304c.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304c.svg",
+    "sourceRevision": "f5b3aea1f3b33b08860970f51532b1d0047b7219a7f4de1d7e89a9c11514dfad",
+    "sha256": "682b6cdafbed528f7a20bca9efae13b3fb5224b0858e7d90c0d73d872b9240ce",
+    "duration": 5.25,
+    "strokeCount": 5
+  },
+  "ぎ": {
+    "lessonId": "kana:character:h:304e",
+    "svg": "assets/kana/svg/h-304e.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304e.svg",
+    "sourceRevision": "ae84396b97e7b7b0e29810ec1b57114de1e9e0a68e4f1a2adb6d2bc155da29a0",
+    "sha256": "0f44d7db03af10551049eaff58e91cf27a2bb48075829d03d6a60332f67ba234",
+    "duration": 6.016666666666667,
+    "strokeCount": 6
+  },
+  "ぐ": {
+    "lessonId": "kana:character:h:3050",
+    "svg": "assets/kana/svg/h-3050.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3050.svg",
+    "sourceRevision": "baacf1deaca5b1842d1ba0beaa51eb97cc222ea1a8db652add306d46865cdb2f",
+    "sha256": "96679f2a1c596782beda0f93ac286431e95883982efe53deb9915db035edceb8",
+    "duration": 3.1333333333333333,
+    "strokeCount": 3
+  },
+  "げ": {
+    "lessonId": "kana:character:h:3052",
+    "svg": "assets/kana/svg/h-3052.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3052.svg",
+    "sourceRevision": "6c76c08a372c91c42524ddad556b80feb89636af573b481eca0f240d07af42d2",
+    "sha256": "e2db430cd7fa74affb265ce8b9f2735dc60558dd01e38b71224233a8bc5d8a74",
+    "duration": 5.183333333333334,
+    "strokeCount": 5
+  },
+  "ご": {
+    "lessonId": "kana:character:h:3054",
+    "svg": "assets/kana/svg/h-3054.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3054.svg",
+    "sourceRevision": "e54220eeb3e5665f0847d6f0df6bf622253417e81c92a44dedca71d3d01ca448",
+    "sha256": "575d2071452981a3e28f598174a37933efbe6a59563a7e5ebed881e35832da69",
+    "duration": 3.8333333333333335,
+    "strokeCount": 4
+  },
+  "ざ": {
+    "lessonId": "kana:character:h:3056",
+    "svg": "assets/kana/svg/h-3056.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3056.svg",
+    "sourceRevision": "df1892edc66d493829106ac6a50326f2194683e42836afe42afcf01fe92d55bb",
+    "sha256": "ef3870af943461da6d71a88d90b7c1006103f7d8b1cb7a65ca870c984fcb5334",
+    "duration": 5.1,
+    "strokeCount": 5
+  },
+  "じ": {
+    "lessonId": "kana:character:h:3058",
+    "svg": "assets/kana/svg/h-3058.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3058.svg",
+    "sourceRevision": "59a82da8d888dfb2b34a84958c96764acfc21c910314ca448332248398b2a39c",
+    "sha256": "8103cf4c9137716b84b058381bbb51f8a8843b200fb6158e3cdfee75b65dacbf",
+    "duration": 3.8333333333333335,
+    "strokeCount": 3
+  },
+  "ず": {
+    "lessonId": "kana:character:h:305a",
+    "svg": "assets/kana/svg/h-305a.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-305a.svg",
+    "sourceRevision": "f0389ab02f6fe4c79bbaf8b8fade055ec16a88b1a0f5c554af052a9545246d11",
+    "sha256": "67cf93b62c59ad40a7a532bfc8e642d272c0584727c73a8253f00b66712e03bf",
+    "duration": 5.283333333333333,
+    "strokeCount": 4
+  },
+  "ぜ": {
+    "lessonId": "kana:character:h:305c",
+    "svg": "assets/kana/svg/h-305c.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-305c.svg",
+    "sourceRevision": "d7bd239a17350494c7006b7e92e86c0abeefd0fe595fa511b187f078e0593cf8",
+    "sha256": "2511b3670c81949320926817ae992a45f64398443d9111cde7e1629907f0c9cb",
+    "duration": 5.5,
+    "strokeCount": 5
+  },
+  "ぞ": {
+    "lessonId": "kana:character:h:305e",
+    "svg": "assets/kana/svg/h-305e.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-305e.svg",
+    "sourceRevision": "c6a707c1496bc2675173575a131bdd027eb6d7818238fbfc65cf5623c356993b",
+    "sha256": "0a5a1715917392ecab9c5cbb214c4690bf902c5e0a9421c3a52f020fadeb00be",
+    "duration": 5.233333333333333,
+    "strokeCount": 3
+  },
+  "だ": {
+    "lessonId": "kana:character:h:3060",
+    "svg": "assets/kana/svg/h-3060.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3060.svg",
+    "sourceRevision": "5d2f861fa98d1df3304183368fee38640797ca926e5fc95867558cf007053394",
+    "sha256": "b06e974c4b1e844bf41f77e570d68517d5d69758eb47af2b9c5fe37a35ddc6a9",
+    "duration": 5.366666666666666,
+    "strokeCount": 6
+  },
+  "ぢ": {
+    "lessonId": "kana:character:h:3062",
+    "svg": "assets/kana/svg/h-3062.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3062.svg",
+    "sourceRevision": "ffa3e1a71e9feec375635438f110d41721b4699e91081cd80b28ade330a58cf3",
+    "sha256": "b05ed39423dd9612e18069a2ec5c34405a0cba75b7ed53f7a97bf0c64a6a9998",
+    "duration": 5.1,
+    "strokeCount": 4
+  },
+  "づ": {
+    "lessonId": "kana:character:h:3065",
+    "svg": "assets/kana/svg/h-3065.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3065.svg",
+    "sourceRevision": "f92d7b1781d5968426f03388f0b46b43f6b594b41a8b2e8831b1af155f499ff2",
+    "sha256": "24681fdc81d033bbd9acb6486e3e47426f4c54e728182c11e0533425c9b8ad7a",
+    "duration": 3.8,
+    "strokeCount": 3
+  },
+  "で": {
+    "lessonId": "kana:character:h:3067",
+    "svg": "assets/kana/svg/h-3067.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3067.svg",
+    "sourceRevision": "2d03d9a33fee48005604bc8fbccb8a99ee82d2a472bc2113f32e74eeb124de23",
+    "sha256": "b7c177c768a531a49c012aa47743caee078433c66d9b624fb0fc190dcd4f5a35",
+    "duration": 3.7,
+    "strokeCount": 3
+  },
+  "ど": {
+    "lessonId": "kana:character:h:3069",
+    "svg": "assets/kana/svg/h-3069.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3069.svg",
+    "sourceRevision": "8069c528391affc6a27ff0f9e2b5dd1bb2febc606c4b63f253750f46de5cb161",
+    "sha256": "406d8e15b2b7733c38b7a1c1424f0f7d5a27eb9962e38923a243d24563ccde1a",
+    "duration": 4.45,
+    "strokeCount": 4
+  },
+  "ば": {
+    "lessonId": "kana:character:h:3070",
+    "svg": "assets/kana/svg/h-3070.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3070.svg",
+    "sourceRevision": "49164da8ea96d8072eb96d5296fb40741bbdb59bdd4ab86a5d8caf593006745b",
+    "sha256": "43d985cdc58035200744758c9308175565fd6e7005e6ab81011a006b0655e4a4",
+    "duration": 6.316666666666666,
+    "strokeCount": 5
+  },
+  "び": {
+    "lessonId": "kana:character:h:3073",
+    "svg": "assets/kana/svg/h-3073.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3073.svg",
+    "sourceRevision": "39c2f324815ce0e95746cf090fe939fac9e4a91843675e63f12420b5d8db0cfa",
+    "sha256": "be4bd94d6d8caf714228987dbc9fa85c02d1952e06919dd357381a0e9db19a96",
+    "duration": 5.25,
+    "strokeCount": 3
+  },
+  "ぶ": {
+    "lessonId": "kana:character:h:3076",
+    "svg": "assets/kana/svg/h-3076.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3076.svg",
+    "sourceRevision": "9993321dacac290be9a35b67e902b63ce934322abd6a32877d71629502c4363b",
+    "sha256": "6510d815826f9d75e202f9f81af12f7da0324436529c4d16935df27d228cc4fc",
+    "duration": 4.833333333333333,
+    "strokeCount": 6
+  },
+  "べ": {
+    "lessonId": "kana:character:h:3079",
+    "svg": "assets/kana/svg/h-3079.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3079.svg",
+    "sourceRevision": "4416c9539dbe9f2bae5bdd3d7cd0a12d0950ed9c4434540e132926284a9c690f",
+    "sha256": "750a0b4dd3d0a3a9fc07a74ec72f16085fad3632fa56178988b7c08529f7265d",
+    "duration": 3.566666666666667,
+    "strokeCount": 3
+  },
+  "ぼ": {
+    "lessonId": "kana:character:h:307c",
+    "svg": "assets/kana/svg/h-307c.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-307c.svg",
+    "sourceRevision": "816337f43789af6157a5a19a404fb7f34774420e16c908133eacc156df3fd894",
+    "sha256": "470d1c9d083ccce8039f18a4faaea8f76d3612fe4ee076466cc4c524cc7e51a8",
+    "duration": 6.616666666666666,
+    "strokeCount": 6
+  },
+  "ぱ": {
+    "lessonId": "kana:character:h:3071",
+    "svg": "assets/kana/svg/h-3071.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3071.svg",
+    "sourceRevision": "a26c87d90ad854bcc52c3c13b870e43dbe197ba6e2701e82635dab961b96a1fb",
+    "sha256": "162fa207e15f82c96d0ebd560cdd58ac16b294b1e995c97d639ca9a469a5e3e4",
+    "duration": 6.383333333333334,
+    "strokeCount": 4
+  },
+  "ぴ": {
+    "lessonId": "kana:character:h:3074",
+    "svg": "assets/kana/svg/h-3074.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3074.svg",
+    "sourceRevision": "e9f71f359ba6492273b00bda3add8f1e8936e4e5dd6dd0b52bc7263d3d3c3a83",
+    "sha256": "e18266cf23aef9f38fab42178c356922f5c2aa65671606f86ca6919764b0a6df",
+    "duration": 5.3,
+    "strokeCount": 2
+  },
+  "ぷ": {
+    "lessonId": "kana:character:h:3077",
+    "svg": "assets/kana/svg/h-3077.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3077.svg",
+    "sourceRevision": "e3a63fc1579995ecd5a3dce5c898e2c901a5f2133f3cb9cab201e34e011e6d69",
+    "sha256": "cdc55c2b842da460f2c1e5819ca20a2fd08e86bd5bb6c886dae1825d060e6eaa",
+    "duration": 4.933333333333334,
+    "strokeCount": 5
+  },
+  "ぺ": {
+    "lessonId": "kana:character:h:307a",
+    "svg": "assets/kana/svg/h-307a.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-307a.svg",
+    "sourceRevision": "abb898aa892c4fae64403ebd58a547f5b9c5ce7b7ad2eca0826daab22869acfa",
+    "sha256": "7570511fc2798f9f83b84e0285048621b7887fe5bfee99d09c120efeaf8084fc",
+    "duration": 3.683333333333333,
+    "strokeCount": 2
+  },
+  "ぽ": {
+    "lessonId": "kana:character:h:307d",
+    "svg": "assets/kana/svg/h-307d.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-307d.svg",
+    "sourceRevision": "1b3a0c021cef98d4232d63652616c685ee26cb81753ed438dfee1d537ee81db6",
+    "sha256": "1a10c822fad234edf62dac17e4426418ec28e1888609144ec66bb65aa22e2735",
+    "duration": 6.466666666666667,
+    "strokeCount": 5
+  },
+  "きゃ": {
+    "lessonId": "kana:character:h:304d-3083",
+    "svg": "assets/kana/svg/h-304d-3083.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304d-3083.svg",
+    "sourceRevision": "d11ccb94281b8e939f1f8a90c7aebcb59b86a6edafa23799f5855116c2d4079f",
+    "sha256": "b1b575db9316e2ce198075c2e2dc08169cc09a09de4fe3f00def094f7206f548",
+    "duration": 5.45,
+    "strokeCount": 7
+  },
+  "きゅ": {
+    "lessonId": "kana:character:h:304d-3085",
+    "svg": "assets/kana/svg/h-304d-3085.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304d-3085.svg",
+    "sourceRevision": "80b1e821461baaf451fafe93b744461ac8a68606dacd08df146895c617c3878e",
+    "sha256": "33f0606961f83c72eabd6b810ed29cd8cc2c5c1c4569975d661204789a982948",
+    "duration": 5.633333333333334,
+    "strokeCount": 6
+  },
+  "きょ": {
+    "lessonId": "kana:character:h:304d-3087",
+    "svg": "assets/kana/svg/h-304d-3087.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304d-3087.svg",
+    "sourceRevision": "1d0c08430482c58b094433e1667e3e8ab41b511862adf80b8bff733da507fb69",
+    "sha256": "e942c147efcc99e56d3e6b010fec3f62e1947963c386855e1480ec17e938c52e",
+    "duration": 5.266666666666667,
+    "strokeCount": 6
+  },
+  "ぎゃ": {
+    "lessonId": "kana:character:h:304e-3083",
+    "svg": "assets/kana/svg/h-304e-3083.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304e-3083.svg",
+    "sourceRevision": "999c559162702ef5f719bfaed567ed535ab0e8f1bec9fb4a70e1e39385b23140",
+    "sha256": "2fd40ec19e8e8afde27fafa28876e7fcaadf6fcb168116613e6b0b75c67894b4",
+    "duration": 5.95,
+    "strokeCount": 9
+  },
+  "ぎゅ": {
+    "lessonId": "kana:character:h:304e-3085",
+    "svg": "assets/kana/svg/h-304e-3085.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304e-3085.svg",
+    "sourceRevision": "c3bbf2e1e76b0de31d7ca2d0d2d30f48d0525a4cf80469120cb6cb66dcf23994",
+    "sha256": "1bf3736227d6b3e0885a967e9d94bc429dcf797b56b9eaa589ec1127d8a16f7c",
+    "duration": 6.15,
+    "strokeCount": 8
+  },
+  "ぎょ": {
+    "lessonId": "kana:character:h:304e-3087",
+    "svg": "assets/kana/svg/h-304e-3087.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-304e-3087.svg",
+    "sourceRevision": "d627c146496ad9246feb1ef8508fe9e4def46d128348cf04e52e45f03d28694f",
+    "sha256": "1591946527c6b020387a7542fa8f6a8e47e9a92e47f211665f4668c304a94d27",
+    "duration": 5.75,
+    "strokeCount": 8
+  },
+  "しゃ": {
+    "lessonId": "kana:character:h:3057-3083",
+    "svg": "assets/kana/svg/h-3057-3083.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3057-3083.svg",
+    "sourceRevision": "ea1eaecd6fde00ac32933b3aeb5ec9e78154060be83d597607e4173f469062bf",
+    "sha256": "40e12e5ec4585fffaa59a8d7f0813fecde8db9a489db44a5482f935c133969f6",
+    "duration": 4.116666666666666,
+    "strokeCount": 4
+  },
+  "しゅ": {
+    "lessonId": "kana:character:h:3057-3085",
+    "svg": "assets/kana/svg/h-3057-3085.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3057-3085.svg",
+    "sourceRevision": "9da43432e147f8c6e44592dcc5e98d45c2317061992438398d5ac5ac950cd92c",
+    "sha256": "50b401c6eb6654b5f6fed923a063154b700d97371a2bceb8b1bcd2605dce5eb7",
+    "duration": 4.366666666666666,
+    "strokeCount": 3
+  },
+  "しょ": {
+    "lessonId": "kana:character:h:3057-3087",
+    "svg": "assets/kana/svg/h-3057-3087.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3057-3087.svg",
+    "sourceRevision": "a7e6cbfcea44cac48bf11876e882932c73bbd3af640db963597dcf8a300b1c0d",
+    "sha256": "0bb9ca5efd30e191a88f914275551dc74d5f4437137c619badde542875237c5b",
+    "duration": 3.9,
+    "strokeCount": 3
+  },
+  "じゃ": {
+    "lessonId": "kana:character:h:3058-3083",
+    "svg": "assets/kana/svg/h-3058-3083.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3058-3083.svg",
+    "sourceRevision": "c66bb2ae8e26c68def8d4e3802cc4e420dc95c9b39c1a024fe31324d9b53a5a1",
+    "sha256": "fe1b3c6677ada8f2eb85494e624fc3fef8c3bebf6182e4f1b67fde2f0c58ec37",
+    "duration": 4.716666666666667,
+    "strokeCount": 6
+  },
+  "じゅ": {
+    "lessonId": "kana:character:h:3058-3085",
+    "svg": "assets/kana/svg/h-3058-3085.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3058-3085.svg",
+    "sourceRevision": "1c04b57a72482bad4cf99b741227176bb050b540f3f0b82fdbbf908b86ee4aad",
+    "sha256": "aa3b53b3e38bfdbc378b4ed42096a359271ca77355e48d9cc0555a463001dd19",
+    "duration": 4.966666666666667,
+    "strokeCount": 5
+  },
+  "じょ": {
+    "lessonId": "kana:character:h:3058-3087",
+    "svg": "assets/kana/svg/h-3058-3087.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3058-3087.svg",
+    "sourceRevision": "66ad1b157c5d47545a1597cea5ceb12fce9f1df3e07e7cefc42c9f28082b6624",
+    "sha256": "9a62ea453ac11165314579c5c1a472c5617decd085438308e5af38950063d460",
+    "duration": 4.516666666666667,
+    "strokeCount": 5
+  },
+  "ちゃ": {
+    "lessonId": "kana:character:h:3061-3083",
+    "svg": "assets/kana/svg/h-3061-3083.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3061-3083.svg",
+    "sourceRevision": "4b16854ea463dcb472fd1bdee7be15536fe6468a6eabbf97cd27abd4ff167453",
+    "sha256": "41e49d4b5a8189d71e6dbdf67fc7a6b33572a17ba3226f2c86f859d478886939",
+    "duration": 4.783333333333333,
+    "strokeCount": 5
+  },
+  "ちゅ": {
+    "lessonId": "kana:character:h:3061-3085",
+    "svg": "assets/kana/svg/h-3061-3085.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3061-3085.svg",
+    "sourceRevision": "ac63d73b347ccbf4f0ef6ed117e031dd179a5943241c3ec7aee349364ef5ddff",
+    "sha256": "62c95d5734d3348d59cb7019c574da97792a13958e35969368c33dc784e03451",
+    "duration": 4.983333333333333,
+    "strokeCount": 4
+  },
+  "ちょ": {
+    "lessonId": "kana:character:h:3061-3087",
+    "svg": "assets/kana/svg/h-3061-3087.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3061-3087.svg",
+    "sourceRevision": "0017150cbcce0871737b7cd4f0ebda31715b8765a9189f9c69793ec83b1c8d07",
+    "sha256": "b9e4a8af1f1cb9813314f95842c74c024f4510248651a98c6f7bc289846016e6",
+    "duration": 4.583333333333333,
+    "strokeCount": 4
+  },
+  "にゃ": {
+    "lessonId": "kana:character:h:306b-3083",
+    "svg": "assets/kana/svg/h-306b-3083.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-306b-3083.svg",
+    "sourceRevision": "e16a5889862e0359f11733ab4826f5331e335e1d48a4c2fcd239e1483c0602e5",
+    "sha256": "4193618edabf5be58692fc5b3c2901e728db8e1393b168f64bf34d43f9ad5967",
+    "duration": 4.666666666666667,
+    "strokeCount": 6
+  },
+  "にゅ": {
+    "lessonId": "kana:character:h:306b-3085",
+    "svg": "assets/kana/svg/h-306b-3085.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-306b-3085.svg",
+    "sourceRevision": "7372c1f9e2574c34a3f57e91de97cc664cc8d8d9561200d9000d784ccb217171",
+    "sha256": "89486e4de7a765693e0b113a6a508d38231fef7baa1cc954c73a3158e9b6d3d8",
+    "duration": 4.866666666666666,
+    "strokeCount": 5
+  },
+  "にょ": {
+    "lessonId": "kana:character:h:306b-3087",
+    "svg": "assets/kana/svg/h-306b-3087.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-306b-3087.svg",
+    "sourceRevision": "7d78e151a3568159f2fd056e54437397f3d9913106bf8ba3f1a0ee49c93d1d8b",
+    "sha256": "7541145406b9739ad753fd8a0c6e75b730e6d89d5d6e79e6a3fa043105f66f0e",
+    "duration": 4.466666666666667,
+    "strokeCount": 5
+  },
+  "ひゃ": {
+    "lessonId": "kana:character:h:3072-3083",
+    "svg": "assets/kana/svg/h-3072-3083.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3072-3083.svg",
+    "sourceRevision": "6c90caf96e1dbbbe4ad300c4b92819eaf26ac4d577568a5f7f590f7d8c6a8342",
+    "sha256": "183f46ae9bd1bd6d3b6dd9c851beb020ccdc46afc2e5435d782e84b1b9dbce60",
+    "duration": 4.683333333333334,
+    "strokeCount": 4
+  },
+  "ひゅ": {
+    "lessonId": "kana:character:h:3072-3085",
+    "svg": "assets/kana/svg/h-3072-3085.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3072-3085.svg",
+    "sourceRevision": "68611f4d58aed5eac9bab2e0b065a83f58333f4203adb6124e99c64586184767",
+    "sha256": "e656dbd3db38f46b783e6330c751a092a6ab4112fd7e6eddfc509d4757b0eb51",
+    "duration": 4.883333333333334,
+    "strokeCount": 3
+  },
+  "ひょ": {
+    "lessonId": "kana:character:h:3072-3087",
+    "svg": "assets/kana/svg/h-3072-3087.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3072-3087.svg",
+    "sourceRevision": "a74458c3673726078b2c1b28d24e6c2a567cf704ffaba46217f7158899a13d68",
+    "sha256": "65d7b0ca1111fd0e9de20005dbc1f21d50532ab959bac0b079d12517c9a6703b",
+    "duration": 4.5,
+    "strokeCount": 3
+  },
+  "びゃ": {
+    "lessonId": "kana:character:h:3073-3083",
+    "svg": "assets/kana/svg/h-3073-3083.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3073-3083.svg",
+    "sourceRevision": "494863f618b568afc08ade9cb742389445c3553d4fa34476ed1ce0c581037332",
+    "sha256": "580ddfd6120b8cc8ca0fde1be3564ac526b668d0b6a68d0f93059777f48284ef",
+    "duration": 5.183333333333334,
+    "strokeCount": 6
+  },
+  "びゅ": {
+    "lessonId": "kana:character:h:3073-3085",
+    "svg": "assets/kana/svg/h-3073-3085.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3073-3085.svg",
+    "sourceRevision": "5e34b0ceba6b9023a7eebf37678a5426fcd60afa44e15052bba70bc3766022ee",
+    "sha256": "da734678ed4f91de5a66becc03b49b13e80e5f2ed67878a0c2a1cafd099a0787",
+    "duration": 5.333333333333333,
+    "strokeCount": 5
+  },
+  "びょ": {
+    "lessonId": "kana:character:h:3073-3087",
+    "svg": "assets/kana/svg/h-3073-3087.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3073-3087.svg",
+    "sourceRevision": "7c31e14720c0227bdf784bed3db266aaf333a0cf2924f7c31f1eee432647775e",
+    "sha256": "3558656db67d5d71522a2a0fd9aaa1ced780efbf7bdadb21a2ad07c4e0a9ddab",
+    "duration": 5,
+    "strokeCount": 5
+  },
+  "ぴゃ": {
+    "lessonId": "kana:character:h:3074-3083",
+    "svg": "assets/kana/svg/h-3074-3083.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3074-3083.svg",
+    "sourceRevision": "b9249eecf9fbbf83e11a28a9f323e022e0097d1f6b313f15f6276d1e9b7c7735",
+    "sha256": "df69ff06be65ac17485e68f2c8a8100560c859d4276f770f16a1e1c4bdb68e3c",
+    "duration": 5.15,
+    "strokeCount": 5
+  },
+  "ぴゅ": {
+    "lessonId": "kana:character:h:3074-3085",
+    "svg": "assets/kana/svg/h-3074-3085.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3074-3085.svg",
+    "sourceRevision": "33276166d3a406fb47b0ce56e9573204008b1f39ddd7fda0e96dee5858d879c5",
+    "sha256": "31e1fabaae69e451cd2d17aa5e0aacc9e86614d829fa1a7cc44453cff736cef8",
+    "duration": 5.3,
+    "strokeCount": 4
+  },
+  "ぴょ": {
+    "lessonId": "kana:character:h:3074-3087",
+    "svg": "assets/kana/svg/h-3074-3087.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-3074-3087.svg",
+    "sourceRevision": "e0041a55dd942c173c838418c0963552b7bdccda32e15ac4406a0f857ca62d9b",
+    "sha256": "6dbc669f80ce221a727bfbfc79d0e4a3181b2fd87930c0d628299a15deac0321",
+    "duration": 4.95,
+    "strokeCount": 4
+  },
+  "みゃ": {
+    "lessonId": "kana:character:h:307f-3083",
+    "svg": "assets/kana/svg/h-307f-3083.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-307f-3083.svg",
+    "sourceRevision": "e9cfa09274a5c93e43d295bb5eda45ab54e82a46499f5df8aa56721ff259b47a",
+    "sha256": "0ffc76590c2082a208a8ce4791b9242026f562a2c9d9dbb4b593bf229b74dd3b",
+    "duration": 4.966666666666667,
+    "strokeCount": 5
+  },
+  "みゅ": {
+    "lessonId": "kana:character:h:307f-3085",
+    "svg": "assets/kana/svg/h-307f-3085.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-307f-3085.svg",
+    "sourceRevision": "3a8ab7a334871e0db4586c23c71dfd52adc662e7d0feaadf77c8764fc0fcf1d5",
+    "sha256": "4c9123a7a20b48c4e99f9886387873ff17c47ea6248c52139fab2c668a767003",
+    "duration": 5.183333333333334,
+    "strokeCount": 4
+  },
+  "みょ": {
+    "lessonId": "kana:character:h:307f-3087",
+    "svg": "assets/kana/svg/h-307f-3087.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-307f-3087.svg",
+    "sourceRevision": "c1e63a28afd3b7cddd2f5fa1e7d66f5179b62218835f25168457c294ae5eba8a",
+    "sha256": "ab3b4c7c6ce74b43da8e7fc7a6fef6db8a909e91c53df5b43fd714ef85629f04",
+    "duration": 4.8,
+    "strokeCount": 4
+  },
+  "りゃ": {
+    "lessonId": "kana:character:h:308a-3083",
+    "svg": "assets/kana/svg/h-308a-3083.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-308a-3083.svg",
+    "sourceRevision": "a02c4bf5d081a24d1407175ae28d2476eeecd2687cae30a5232f1af6c0ae6016",
+    "sha256": "e2ce741dd07b38b70394329134c38718268e4dc3044c72d398368a0c9e1e1923",
+    "duration": 4.683333333333334,
+    "strokeCount": 5
+  },
+  "りゅ": {
+    "lessonId": "kana:character:h:308a-3085",
+    "svg": "assets/kana/svg/h-308a-3085.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-308a-3085.svg",
+    "sourceRevision": "e9eb2813958da16409b4aa33b7c715cad260c2eb6f35ff00ba03391936c60ad7",
+    "sha256": "bdf93729abfd46e8538952e96495e6d785522b36708eeeb369d3fa45d2c7aa1d",
+    "duration": 4.933333333333334,
+    "strokeCount": 4
+  },
+  "りょ": {
+    "lessonId": "kana:character:h:308a-3087",
+    "svg": "assets/kana/svg/h-308a-3087.svg",
+    "schema": "hisohiso.kana.stroke-svg",
+    "source": "build/kana-writing-video/hiragana-1024/stroke-svg/noto-sans-jp/h-308a-3087.svg",
+    "sourceRevision": "cd1cc55dc3c7aa2dea093891ce403233bc51baf1de4f8a8ede2d218706549118",
+    "sha256": "3ff9ecc8fd4002db74e32b8995a8f3de9da8be24754c829447b71b89c0072f5a",
+    "duration": 4.483333333333333,
+    "strokeCount": 4
+  },
+  "ア": {
+    "lessonId": "kana:character:k:30a2",
+    "svg": "assets/kana/svg/k-30a2.svg",
+    "schema": "hisohiso.kana.centerline-svg",
+    "source": "build/kana-writing-video/library/katakana-a/guided/render.json",
+    "sourceRevision": "27e890986e03211a4727afd5a14d179219c3abef4767726837e837818ffc8686",
+    "sha256": "b766952e5f8c42261ca0e315a34e8881801b7ead1ab66ae40fd7b7dec868fc11",
+    "duration": 10.5,
+    "strokeCount": 2
+  },
+  "イ": {
+    "lessonId": "kana:character:k:30a4",
+    "svg": "assets/kana/svg/k-30a4.svg",
+    "schema": "hisohiso.kana.centerline-svg",
+    "source": "build/kana-writing-video/library/katakana-i/guided/render.json",
+    "sourceRevision": "da748cddf74ce47a295d7760062e648462f03db97cbb76e149b66338be798131",
+    "sha256": "6d34b0e1fb71ffb41477fbd7a09d62ceb786704c547c93b4f65bf02f42f6e5b1",
+    "duration": 10.5,
+    "strokeCount": 2
+  },
+  "ウ": {
+    "lessonId": "kana:character:k:30a6",
+    "svg": "assets/kana/svg/k-30a6.svg",
+    "schema": "hisohiso.kana.centerline-svg",
+    "source": "build/kana-writing-video/library/katakana-u/guided/render.json",
+    "sourceRevision": "4215b03b778922515b716f507ca3db62b584f7b8de76a33fe5ce16819825bc05",
+    "sha256": "468b629eaad20e9b60079fe112f2abbca679c6678d26278a7d74dc7674a29cad",
+    "duration": 10.5,
+    "strokeCount": 3
+  },
+  "エ": {
+    "lessonId": "kana:character:k:30a8",
+    "svg": "assets/kana/svg/k-30a8.svg",
+    "schema": "hisohiso.kana.centerline-svg",
+    "source": "build/kana-writing-video/library/katakana-e/guided/render.json",
+    "sourceRevision": "fb6a7360e7cfd2a877c24291f93a3a59664fff7a8c0fa4f52086e9fb2fccb175",
+    "sha256": "bf5f0c2f42b8abe555a7b8132d386beb446db0374a425cb6c388357ad166f372",
+    "duration": 10.5,
+    "strokeCount": 3
+  },
+  "オ": {
+    "lessonId": "kana:character:k:30aa",
+    "svg": "assets/kana/svg/k-30aa.svg",
+    "schema": "hisohiso.kana.centerline-svg",
+    "source": "build/kana-writing-video/library/katakana-o/guided/render.json",
+    "sourceRevision": "7bfe8e426e2386c7fe202901b10929143b6bee2a029431fd9c8864cb17fb0134",
+    "sha256": "3276e8ecbbe674372ad0768382ed654f369f829d71af206906f2894e39a45b8f",
+    "duration": 10.5,
+    "strokeCount": 3
+  }
+}
