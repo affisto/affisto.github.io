@@ -1,0 +1,11 @@
+KanjiVG stroke paths, Copyright (C) 2009/2010/2011 Ulrich Apel.
+Project: https://kanjivg.tagaini.net/
+Source revision: 55b5ba92a7cad78a62ef04db4be6f9562d949b7f
+Original SVGs: https://github.com/KanjiVG/kanjivg/tree/55b5ba92a7cad78a62ef04db4be6f9562d949b7f/kanji
+Licensed under Creative Commons Attribution-ShareAlike 3.0.
+https://creativecommons.org/licenses/by-sa/3.0/
+Changes: ordered SVG path data extracted into per-character JSON;
+page styles and sequential stroke animation applied. Adapted data
+is distributed under the same CC BY-SA 3.0 licence.
+These are Japanese stroke-order guides. Dictionary stroke counts
+can differ; playback uses the number of paths in the source SVG.
