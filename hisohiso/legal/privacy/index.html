@@ -30,6 +30,7 @@ permalink: /hisohiso/legal/privacy
           <li><a href="#summary">처리 요약</a></li>
           <li><a href="#on-device">기기 내 정보</a></li>
           <li><a href="#cloud-speech">클라우드 음성 검수</a></li>
+          <li><a href="#purchases">구독과 이용권 구매</a></li>
           <li><a href="#operator-data">운영자 처리 정보</a></li>
           <li><a href="#third-party">제3자 제공</a></li>
           <li><a href="#processors">처리 위탁</a></li>
@@ -57,11 +58,16 @@ permalink: /hisohiso/legal/privacy
           <h2>1. 개인정보 처리 요약</h2>
           <ul>
             <li>회원가입이나 로그인을 요구하지 않습니다.</li>
-            <li>연락처, 위치정보, 사진 또는 결제정보를 수집하지 않습니다.</li>
+            <li>연락처 목록, GPS 위치, 카드번호와 은행계좌번호를 수집하지 않습니다.</li>
             <li>학습 기록과 설정은 이용자의 기기에 저장됩니다.</li>
             <li>
               iOS·Android 앱은 서비스 이용 현황과 품질 개선을 위해 Firebase Analytics를 사용합니다.
-              사용자 ID, 광고 ID, 음성, 전사문과 직접 입력한 답변은 분석 이벤트에 포함하지 않습니다.
+              분석용 앱 설치 식별자와 IP 주소에서 추정한 대략적인 지역 정보를 처리할 수 있습니다.
+              실명, 이메일, 광고 ID, 음성, 전사문과 직접 입력한 답변은 분석 이벤트에 포함하지 않습니다.
+            </li>
+            <li>
+              유료 이용권의 구매 확인·복원과 구독 관리를 위해 RevenueCat이 가명 앱 이용자 식별자,
+              상품·거래 정보와 구독 상태를 처리합니다. 카드 등 지불 수단 정보는 앱 마켓이 처리합니다.
             </li>
             <li>
               마이크 음성은 먼저 기기 안에서 처리합니다. 로컬 결과로 정답을 확인하기 어렵고 클라우드
@@ -132,12 +138,33 @@ permalink: /hisohiso/legal/privacy
             입력을 이용할 수 있습니다.
           </p>
         </section>
+        <section class="legal-section" id="purchases">
+          <h2>2-2. 구독과 이용권 구매</h2>
+          <p>
+            히소히소 Pro의 월간·연간 구독 및 평생 이용권을 제공하는 앱 버전에서는 Apple App Store
+            등 앱 마켓의 인앱결제를 사용합니다. 결제 수단 정보는 앱 마켓이 처리하며 운영자와
+            RevenueCat은 카드번호나 은행계좌번호를 수집하지 않습니다.
+          </p>
+          <p>
+            구매 권한 확인, 구매 복원, 갱신·만료·환불 반영, 부정 이용 방지와 이용 통계를 위해
+            RevenueCat, Inc.에 상품 식별자, 거래·영수증 정보, 구매 및 만료 시각, 구독 상태,
+            가명 앱 이용자 식별자와 앱·스토어 관련 정보가 HTTPS로 전송됩니다.
+            앱은 RevenueCat에 실명이나 이메일을 이용자 식별자로 등록하지 않습니다.
+            Firebase Analytics도 스토어 구매 이벤트를 분석용 앱 설치 식별자와 함께 처리할 수 있습니다.
+          </p>
+          <p>
+            구매 정보는 이용권 제공과 구매 복원에 필요한 기간 동안 처리됩니다. 삭제 요청은
+            운영자가 확인하여 처리업체에 전달하며, 법령상 보존 의무나 분쟁 대응에 필요한 정보는
+            해당 목적에 필요한 기간 동안 보관할 수 있습니다. 삭제와 구매 복원에 관한 문의는
+            <a href="mailto:tech@affisto.com">tech@affisto.com</a>으로 보낼 수 있습니다.
+          </p>
+        </section>
         <section class="legal-section" id="operator-data">
           <h2>3. 운영자가 처리하는 개인정보</h2>
           <p>
             서비스에는 계정 시스템이 없습니다. 다만 클라우드 보조 음성 검수, iOS·Android 앱의
-            Firebase Analytics와 이용자가 직접 보내는 이메일 문의 과정에서 다음 정보를 처리할 수
-            있습니다.
+            Firebase Analytics, RevenueCat을 통한 구매 관리와 이용자가 직접 보내는 이메일 문의
+            과정에서 다음 정보를 처리할 수 있습니다.
           </p>
           <table>
             <thead>
@@ -151,10 +178,15 @@ permalink: /hisohiso/legal/privacy
               <tr>
                 <td>
                   앱·기기 및 운영체제 정보, 앱 버전, 화면 조회, 수업·복습의 시작·완료·중단, 선택한
-                  학습 과정과 비식별 이용 이벤트
+                  학습 과정, 분석용 앱 설치 식별자, 대략적인 지역 정보와 이용 이벤트
                 </td>
                 <td>이용 현황 분석, 기능 개선 및 오류 확인</td>
                 <td>14개월. 새 사용자 활동이 발생하면 보유기간이 재설정됨</td>
+              </tr>
+              <tr>
+                <td>가명 앱 이용자 식별자, 상품·거래·영수증 정보, 구매·만료 시각과 구독 상태</td>
+                <td>구매 검증, 유료 기능 제공, 구매 복원, 부정 이용 방지와 이용 통계</td>
+                <td>이용권 제공·구매 복원에 필요한 기간. 법령상 보존 의무가 있으면 해당 기간</td>
               </tr>
               <tr>
                 <td>클라우드 음성 검수 여부와 가명 처리된 사용량 정보</td>
@@ -169,9 +201,15 @@ permalink: /hisohiso/legal/privacy
             </tbody>
           </table>
           <p>
-            분석 이벤트에는 사용자 ID, 광고 ID, 이메일·이름·전화번호, 음성, 전사문, 사용자가
+            분석 이벤트에는 실명 기반 사용자 ID, 광고 ID, 이메일·이름·전화번호, 음성, 전사문, 사용자가
             말하거나 입력한 답변을 포함하지 않도록 제한합니다. 문의에는 주민등록번호, 결제정보,
             건강정보 또는 제3자의 개인정보 같은 불필요한 정보를 적지 마세요.
+          </p>
+          <p>
+            앱 내 오류 제보 기능은 가명 기기 식별자를 사용해 제보 권한을 확인할 수 있습니다.
+            사용자가 제보 내용을 확인하고 전송에 동의하면 선택한 화면 이미지, 설명,
+            앱·기기·운영체제 및 진단 정보가 고객지원과 오류 조사 목적으로 전송됩니다.
+            제보 정보의 열람·삭제도 위 문의 주소로 요청할 수 있습니다.
           </p>
         </section>
         <section class="legal-section" id="third-party">
@@ -214,6 +252,14 @@ permalink: /hisohiso/legal/privacy
                 <td>14개월. 새 사용자 활동이 발생하면 보유기간이 재설정됨</td>
               </tr>
               <tr>
+                <td>
+                  RevenueCat, Inc.<br />
+                  <a href="https://www.revenuecat.com/privacy">개인정보 처리방침</a>
+                </td>
+                <td>인앱결제 검증, 구독·이용권 상태 관리, 구매 복원 및 이용 통계</td>
+                <td>이용권 제공·구매 복원에 필요한 기간 및 관련 법령·계약에 따른 보관 기간</td>
+              </tr>
+              <tr>
                 <td>Google LLC(Google Workspace)</td>
                 <td>이메일 문의 수신·보관·전달</td>
                 <td>문의 처리 종료 후 1년 또는 위탁계약 종료 시까지</td>
@@ -228,7 +274,7 @@ permalink: /hisohiso/legal/privacy
         <section class="legal-section" id="transfer">
           <h2>6. 국외 이전 및 외부 파일 제공자</h2>
           <p>
-            클라우드 보조 음성 검수, Firebase Analytics, Google Workspace 이메일 문의와 음성
+            클라우드 보조 음성 검수, Firebase Analytics, RevenueCat 구매 관리, Google Workspace 이메일 문의와 음성
             모델·일본어 사전 다운로드 과정에서 정보가 국외에서 처리될 수 있습니다.
           </p>
           <table>
@@ -268,9 +314,19 @@ permalink: /hisohiso/legal/privacy
                   <a href="https://support.google.com/policies/answer/9581826?hl=ko">개인정보 문의</a>
                 </td>
                 <td>미국 등 Google 또는 그 대리인이 시설을 운영하는 국가</td>
-                <td>앱·기기 정보와 비식별 이용 이벤트</td>
+                <td>앱·기기 정보, 분석용 앱 설치 식별자, 대략적인 지역 정보와 이용·구매 이벤트</td>
                 <td>이용 통계 및 기능 개선, 앱 이용 시 네트워크 전송</td>
                 <td>14개월. 새 사용자 활동이 발생하면 보유기간이 재설정됨</td>
+              </tr>
+              <tr>
+                <td>
+                  RevenueCat, Inc.<br />
+                  <a href="mailto:compliance@revenuecat.com">compliance@revenuecat.com</a>
+                </td>
+                <td>미국</td>
+                <td>가명 앱 이용자 식별자, 상품·거래·영수증 정보, 구독 상태와 앱·스토어 정보</td>
+                <td>구매 검증·복원, 유료 기능 제공과 이용 통계. 앱 이용 및 구매·복원 시 HTTPS 전송</td>
+                <td>이용권 제공·구매 복원에 필요한 기간 및 관련 법령·계약에 따른 보관 기간</td>
               </tr>
               <tr>
                 <td>
@@ -341,8 +397,9 @@ permalink: /hisohiso/legal/privacy
         <section class="legal-section" id="tracking">
           <h2>9. 자동 수집 장치와 추적</h2>
           <p>
-            iOS·Android 앱은 Firebase Analytics를 통해 앱·기기 정보와 비식별 이용 이벤트를 자동으로
-            처리할 수 있습니다. 광고 저장, 광고 사용자 데이터, 광고 개인화 신호와 광고 ID 수집은 앱
+            iOS·Android 앱은 Firebase Analytics를 통해 앱·기기 정보, 분석용 앱 설치 식별자,
+            대략적인 지역 정보와 이용·구매 이벤트를 자동으로 처리할 수 있습니다.
+            광고 저장, 광고 사용자 데이터, 광고 개인화 신호와 광고 ID 수집은 앱
             설정에서 비활성화합니다.
           </p>
           <p>
@@ -379,7 +436,7 @@ permalink: /hisohiso/legal/privacy
             또는 국외 이전처럼 이용자의 권리에 중요한 변경은 관계 법령이 요구하는 방법에 따라 별도로
             알리고 필요한 동의를 받습니다.
           </p>
-          <p>공고일: 2026년 9월 15일<br />시행일: 2026년 9월 15일</p>
+          <p>공고일: 2026년 11월 7일<br />시행일: 2026년 11월 7일</p>
         </section>
       </article>
     </main>
